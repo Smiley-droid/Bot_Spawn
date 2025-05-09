@@ -1,0 +1,9 @@
+{
+  "TOKEN": "votre token",
+  "CHANNEL_ID": 1368146695098994810,
+  "WHISPER_CHANNEL_ID": 1368330872779964497,
+  "VISUAL_ALERT_CHANNEL_ID": 1368146765123031131,
+  "LOG_PATH": "C:\\Users\\votre nom\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\logs\\latest.log",
+  "WHITELIST_KEYWORDS": ["[Meteor]"],
+  "IGNORED_KEYWORDS": ["fly", "cheat"]
+}
